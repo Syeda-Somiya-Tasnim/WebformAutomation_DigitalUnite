@@ -37,4 +37,6 @@ Automate the submission process of the webform located at [DigitalUnite Practice
      ```
      **Reminder:** Make sure `GRADLE_HOME` is set up to execute this command from any terminal.
 
+## HTML Report:
+![image](https://github.com/user-attachments/assets/ee7ec4d2-d816-470f-be2f-2a5faf40724d)
 
